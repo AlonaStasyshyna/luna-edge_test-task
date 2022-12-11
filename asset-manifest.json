@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/luna-edge_test-task/static/css/main.7acaea2f.css",
-    "main.js": "/luna-edge_test-task/static/js/main.07d3183d.js",
+    "main.css": "/luna-edge_test-task/static/css/main.e84634fe.css",
+    "main.js": "/luna-edge_test-task/static/js/main.8d691015.js",
+    "static/media/Inter-Font.ttf": "/luna-edge_test-task/static/media/Inter-Font.aadb65ac45347ff46699.ttf",
+    "static/media/page-background@2x.png": "/luna-edge_test-task/static/media/page-background@2x.5b82cd6abf1fec1fd9a0.png",
+    "static/media/page-background.png": "/luna-edge_test-task/static/media/page-background.205d1f8af66a8d746bc1.png",
+    "static/media/shopify-avatar.svg": "/luna-edge_test-task/static/media/shopify-avatar.4ff59606ded458dd4d1e51cfe4a76b6e.svg",
+    "static/media/logo.svg": "/luna-edge_test-task/static/media/logo.07fa4680c59b5fb4b4dcaf01cc583d1b.svg",
+    "static/media/google-icon.svg": "/luna-edge_test-task/static/media/google-icon.6b0e6bb2e1a62c22cc1c6423257c67b3.svg",
     "index.html": "/luna-edge_test-task/index.html",
-    "main.7acaea2f.css.map": "/luna-edge_test-task/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/luna-edge_test-task/static/js/main.07d3183d.js.map"
+    "main.e84634fe.css.map": "/luna-edge_test-task/static/css/main.e84634fe.css.map",
+    "main.8d691015.js.map": "/luna-edge_test-task/static/js/main.8d691015.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.e84634fe.css",
+    "static/js/main.8d691015.js"
   ]
 }
