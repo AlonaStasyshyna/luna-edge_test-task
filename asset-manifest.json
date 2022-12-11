@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/luna-edge_test-task/static/css/main.e84634fe.css",
-    "main.js": "/luna-edge_test-task/static/js/main.6986c4f4.js",
+    "main.js": "/luna-edge_test-task/static/js/main.d7a03da9.js",
     "static/media/Inter-Font.ttf": "/luna-edge_test-task/static/media/Inter-Font.aadb65ac45347ff46699.ttf",
     "static/media/page-background@2x.png": "/luna-edge_test-task/static/media/page-background@2x.5b82cd6abf1fec1fd9a0.png",
     "static/media/page-background.png": "/luna-edge_test-task/static/media/page-background.205d1f8af66a8d746bc1.png",
@@ -10,10 +10,10 @@
     "static/media/google-icon.svg": "/luna-edge_test-task/static/media/google-icon.6b0e6bb2e1a62c22cc1c6423257c67b3.svg",
     "index.html": "/luna-edge_test-task/index.html",
     "main.e84634fe.css.map": "/luna-edge_test-task/static/css/main.e84634fe.css.map",
-    "main.6986c4f4.js.map": "/luna-edge_test-task/static/js/main.6986c4f4.js.map"
+    "main.d7a03da9.js.map": "/luna-edge_test-task/static/js/main.d7a03da9.js.map"
   },
   "entrypoints": [
     "static/css/main.e84634fe.css",
-    "static/js/main.6986c4f4.js"
+    "static/js/main.d7a03da9.js"
   ]
 }
