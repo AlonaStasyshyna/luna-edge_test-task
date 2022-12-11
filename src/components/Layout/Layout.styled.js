@@ -15,6 +15,10 @@ export const Header = styled.header`
 
   @media screen and (min-width: 1440px) {
     padding: 200px 102px 56px 102px;
+
+    nav {
+      margin-bottom: 253px;
+    }
   }
 `;
 

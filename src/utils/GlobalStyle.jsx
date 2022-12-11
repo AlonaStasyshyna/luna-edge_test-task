@@ -16,6 +16,7 @@ export const GlobalStyle = createGlobalStyle`
     -webkit-text-size-adjust: 100%;
     }
     body {
+    min-height: 900px;
     margin: 0;
     font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial,
     sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
