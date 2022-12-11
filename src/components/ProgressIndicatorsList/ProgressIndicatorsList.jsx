@@ -22,7 +22,7 @@ export const ProgressIndicatorsList = () => {
           <MainNav to="google" location={location.pathname}>Connect your support email</MainNav>
         </Item>
         <Item>
-          <MainNav to="/" location={location.pathname}>Done</MainNav>
+          <MainNav to="ready" location={location.pathname}>Done</MainNav>
         </Item>
       </List>
     </nav>
